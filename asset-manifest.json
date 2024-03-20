@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/MuseumTour/static/css/main.b6c12cb8.chunk.css",
-    "main.js": "/MuseumTour/static/js/main.e8c701de.chunk.js",
-    "main.js.map": "/MuseumTour/static/js/main.e8c701de.chunk.js.map",
+    "main.js": "/MuseumTour/static/js/main.e42a297a.chunk.js",
+    "main.js.map": "/MuseumTour/static/js/main.e42a297a.chunk.js.map",
     "runtime-main.js": "/MuseumTour/static/js/runtime-main.0270227d.js",
     "runtime-main.js.map": "/MuseumTour/static/js/runtime-main.0270227d.js.map",
     "static/css/2.3e7b0a2b.chunk.css": "/MuseumTour/static/css/2.3e7b0a2b.chunk.css",
-    "static/js/2.739d753e.chunk.js": "/MuseumTour/static/js/2.739d753e.chunk.js",
-    "static/js/2.739d753e.chunk.js.map": "/MuseumTour/static/js/2.739d753e.chunk.js.map",
+    "static/js/2.502d2337.chunk.js": "/MuseumTour/static/js/2.502d2337.chunk.js",
+    "static/js/2.502d2337.chunk.js.map": "/MuseumTour/static/js/2.502d2337.chunk.js.map",
     "index.html": "/MuseumTour/index.html",
     "static/css/2.3e7b0a2b.chunk.css.map": "/MuseumTour/static/css/2.3e7b0a2b.chunk.css.map",
     "static/css/main.b6c12cb8.chunk.css.map": "/MuseumTour/static/css/main.b6c12cb8.chunk.css.map",
-    "static/js/2.739d753e.chunk.js.LICENSE.txt": "/MuseumTour/static/js/2.739d753e.chunk.js.LICENSE.txt"
+    "static/js/2.502d2337.chunk.js.LICENSE.txt": "/MuseumTour/static/js/2.502d2337.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0270227d.js",
     "static/css/2.3e7b0a2b.chunk.css",
-    "static/js/2.739d753e.chunk.js",
+    "static/js/2.502d2337.chunk.js",
     "static/css/main.b6c12cb8.chunk.css",
-    "static/js/main.e8c701de.chunk.js"
+    "static/js/main.e42a297a.chunk.js"
   ]
 }
