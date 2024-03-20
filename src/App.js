@@ -2,7 +2,7 @@ import React,{useEffect} from 'react';
 import './App.css';
 import { AnimatedSwitch } from 'react-router-transition';
 import Home from './components/pages/Home';
-import { BrowserRouter as Router, Route } from 'react-router-dom'
+import { HashRouter as Router, Route } from 'react-router-dom'
 import About from './components/pages/About';
 import ArtState from './context/metart/ArtState';
 import NotFound from './components/pages/NotFound';
